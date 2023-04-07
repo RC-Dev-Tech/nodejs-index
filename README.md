@@ -27,7 +27,7 @@
 * [NodeJs - Express Session](https://github.com/RC-Dev-Tech/nodejs-express-session) <br>
 * [NodeJs - Express MySQL-Session](https://github.com/RC-Dev-Tech/nodejs-express-mysql-session) <br>
 * [NodeJs - Request](https://github.com/RC-Dev-Tech/nodejs-http-request) <br>
-* [NodeJs - axios](https://github.com/RC-Dev-Tech/nodejs-axios) <br>
+* [NodeJs - Axios](https://github.com/RC-Dev-Tech/nodejs-axios) <br>
 
 ---
 <br>
