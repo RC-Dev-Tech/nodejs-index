@@ -30,6 +30,7 @@
 * [NodeJs - Request](https://github.com/RC-Dev-Tech/nodejs-http-request) <br>
 * [NodeJs - Axios](https://github.com/RC-Dev-Tech/nodejs-axios) <br>
 * [NodeJs - Passport](https://github.com/RC-Dev-Tech/nodejs-passport) <br>
+* [NodeJs - JSON Web Tokens (JWT)](https://github.com/RC-Dev-Tech/nodejs-jwt) <br>
 
 ---
 <br>
