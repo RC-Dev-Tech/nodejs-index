@@ -8,7 +8,7 @@
 ## 目錄
 * [基礎應用](#基礎應用)
 * [網路應用](#網路應用)
-* [加密應用](#加密應用)
+* [加密驗證應用](#加密驗證應用)
 <!--te-->
 
 ---
@@ -30,14 +30,17 @@
 * [NodeJs - Express MySQL-Session](https://github.com/RC-Dev-Tech/nodejs-express-mysql-session) <br>
 * [NodeJs - Request](https://github.com/RC-Dev-Tech/nodejs-http-request) <br>
 * [NodeJs - Axios](https://github.com/RC-Dev-Tech/nodejs-axios) <br>
-* [NodeJs - Passport](https://github.com/RC-Dev-Tech/nodejs-passport) <br>
-* [NodeJs - JSON Web Tokens (JWT)](https://github.com/RC-Dev-Tech/nodejs-jwt) <br>
+* [NodeJs - Websocket](https://github.com/RC-Dev-Tech/nodejs-websocket) <br>
+* [NodeJs - Socket.io](https://github.com/RC-Dev-Tech/nodejs-socket.io) <br>
+
 
 ---
 <br>
 
-## 加密應用
+## 加密驗證應用
 * [NodeJs - Bcrypt](https://github.com/RC-Dev-Tech/nodejs-bcrypt) <br>
+* [NodeJs - JSON Web Tokens (JWT)](https://github.com/RC-Dev-Tech/nodejs-jwt) <br>
+* [NodeJs - Passport](https://github.com/RC-Dev-Tech/nodejs-passport) <br>
 
 ---
 <br>
