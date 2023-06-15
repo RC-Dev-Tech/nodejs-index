@@ -6,15 +6,9 @@
 
 <!--ts-->
 ## 目錄
-* [基礎應用](#基礎應用)
 * [網路應用](#網路應用)
 * [加密驗證應用](#加密驗證應用)
 <!--te-->
-
----
-
-## 基礎應用
-* [NodeJs - Async/Await 非同步實作](https://github.com/RC-Dev-Tech/nodejs-async-await) <br>
 
 ---
 
